@@ -1,0 +1,3 @@
+Buatlah sebuah program bahasa c  berbasis console menggunakan stdio.h dan string.h untuk menghitung biaya pengiriman Del-Express berdasarkan kode kota tujuan (MDN,BLG,JKY,SBY)
+dan berat paket butet,dengan berat paket ucok =3/2 xberat butet.program menentukan tarif ongkir per kg sesuai kota,menhitung total berat dan total ongkir,lalu mengecek promo lebartan yaitu diskon 10% jika total berat>10kg dan asuransi gratis jika tujuan luar pulau.
+input dilakukan berulang dari keyboard hingga penggunaan memasukkan END, dan output berupa struk pengiriman di console berisi kota tujuan,berat butet,berat ucok,total berat,total ongkir,dan informasi promo.buatkan program yang saya maksud

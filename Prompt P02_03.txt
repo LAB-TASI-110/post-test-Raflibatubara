@@ -1,0 +1,3 @@
+coba rancang sebuah program sistem informasi kafetaria IT DEL berbasis bahasa c yang menggunakan sruct untuk manajeman database menu dan stok,fitur pemesanan interaktif dengan validasi input menggunakan fgets dan strcmp,sistem pembaruan stok otomatis di setiap transaksi,serta implementasikan file handing agar seluruh data menu dan riwayat penjualan tersimpan secara permanen dalam file eksternal (.txt atau .dat) sehingga data tidak hilang saat program dimatikan."Coba buatkan program yang saya maksud"
+coba buatkan saya satu contoh inputan sesuai program bahasa c yang anda berikan kepada saya 
+coba buatkan saya satu contoh inputan sesuai program bahasa c yang anda berikan kepada saya 

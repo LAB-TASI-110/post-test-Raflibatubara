@@ -1,0 +1,3 @@
+Buatlah sebuah program dalam bahasa c untuk menghitung total stok barang berdasarkan kategori tertentu dari sebuah deret data.program harus meminta input berapa jumlah total data (N),di ikuti dengan deret nilai stok  (s1, s2, ..., sN),dan terakhir sebuah kode kategori (misal:1 untuk indeks ganjil,2 untuk indeks genap).Gunakan struktur looping dan array untuk menyimpan data,serta logika if dengan operator modulo % untuk menjumlahkan stok hanya pada posisi yang sesuai dengan kategori yang diminta.pastikan outputnya hanya menampilkan hasil akhir dari total stok tersebut. "buatkan program bahasa c  yang sama maksud"
+coba buatkan contoh inputanya sesuai dengan instruksi saya
+coba jelaskan program bahasa c yang anda berikan kepada saya 
